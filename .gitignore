@@ -1,0 +1,9 @@
+/log
+/lib
+/config
+cert.pem
+key.pem
+main
+Capfile
+Gemfile
+Gemfile.lock
