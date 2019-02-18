@@ -1,9 +1,12 @@
 /log
 /lib
 /config
+/img
 cert.pem
 key.pem
 main
 Capfile
 Gemfile
 Gemfile.lock
+/main.js
+/test.go
